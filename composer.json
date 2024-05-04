@@ -1,5 +1,5 @@
 {
-  "name": "wallheater/laravel9-salesforce",
+  "name": "unsprung-labs/laravel9-salesforce",
   "description": "Laravel 9 Salesforce Force.com PHP Toolkit port",
   "keywords": [
     "laravel",
@@ -12,7 +12,7 @@
   "authors": [
     {
       "name": "Alexander Wohlhueter",
-      "email": "wallheater@gmail.com"
+      "email": "alex.wohlhueter@gmail.com"
     }
   ],
   "require": {
