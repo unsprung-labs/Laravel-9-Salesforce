@@ -15,9 +15,15 @@
       "email": "alex.wohlhueter@gmail.com"
     }
   ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/unsprung-labs/Force.com-Toolkit-for-PHP.git"
+    }
+  ],  
   "require": {
     "php": "^8.0",
-    "davispeixoto/force-dot-com-toolkit-for-php": "1.0.*",
+    "unsprung-labs/force-dot-com-toolkit-for-php": "*",
     "illuminate/support": "^9.21",
     "vlucas/phpdotenv": "^5.4.1"
   },
