@@ -23,7 +23,7 @@
   ],  
   "require": {
     "php": "^8.0",
-    "unsprung-labs/force-dot-com-toolkit-for-php": "*",
+    "unsprung-labs/force-dot-com-toolkit-for-php": "dev-master",
     "illuminate/support": "^9.21",
     "vlucas/phpdotenv": "^5.4.1"
   },
