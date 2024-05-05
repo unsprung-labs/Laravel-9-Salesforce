@@ -24,11 +24,11 @@
   "require": {
     "php": "^8.0",
     "unsprung-labs/force-dot-com-toolkit-for-php": "dev-master",
-    "illuminate/support": "^9.21",
+    "illuminate/support": ">=9.21",
     "vlucas/phpdotenv": "^5.4.1"
   },
   "require-dev": {
-    "laravel/framework": "^9.45",
+    "laravel/framework": ">=9.45",
     "phpunit/phpunit": "^9.5.8"
   },
   "autoload": {
